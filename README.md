@@ -1,4 +1,4 @@
-#SeiyoKeizaiTxtChanger
+#SeiyoKeizaiTxtChanger<br>
 大学の西洋経済史の授業準備を自動化するためにpythonで作りました。
 
 ・PDFファイルを読み込み、私用のアウトライナーツールにコピー&ペーストで移せるように文字変換します。<br>
